@@ -60,9 +60,9 @@ case $1 in
         export kernelsource="AlmightyMegadeth00/kernel_tegra"
     ;;
     janice)
-        export remote="github"
+        export remote="mk"
         export remoterevision="kk44"
-        export kernelsource="Team-Exhibit/android_kernel_samsung_u8500"
+        export kernelsource="Samsung_STE_Kernel"
     ;;
     klte*)
         export remote="vanir"
