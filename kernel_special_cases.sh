@@ -17,7 +17,7 @@ case $1 in
     janice)
         export remote="github"
         export remoterevision="kk44"
-        export kernelsource="Team-Exhibit/android_kernel_samsung_u8500"
+        export kernelsource="mkaluza/Samsung_STE_Kernel"
     ;;
     codinalte)
         export remote="github"
