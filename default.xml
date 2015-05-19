@@ -14,8 +14,6 @@
           review="review.cyanogenmod.com" />
   <remote name="github"
           fetch="https://github.com/" />
-  <remote name="mk"
-          fetch="https://github.com/mkaluza/" />
   <remote name="omni"
           fetch="https://github.com/omnirom/" />
   <remote name="linaro"
@@ -536,7 +534,7 @@
   <project path="packages/apps/SpeechRecorder" name="android_packages_apps_SpeechRecorder" />
   <project path="packages/apps/Stk" name="android_packages_apps_Stk" />
   <project path="packages/apps/Tag" name="android_packages_apps_Tag" />
-  <project path="packages/apps/Torch" name="android_packages_apps_Torch" remote="mk" />
+  <project path="packages/apps/Torch" name="android_packages_apps_Torch" />
   <project path="packages/apps/UnifiedEmail" name="packages_apps_UnifiedEmail" remote="vanir" revision="kk44" />
   <project path="packages/apps/VanirUpdater" name="packages_apps_VanirUpdater" remote="vanir" revision="kk44" />
   <project path="packages/apps/VoiceDialer" name="android_packages_apps_VoiceDialer" />
